@@ -1,0 +1,3 @@
+/Users/Gabriel/Desktop/ListaCircular/build/CMakeFiles/edit_cache.dir
+/Users/Gabriel/Desktop/ListaCircular/build/CMakeFiles/rebuild_cache.dir
+/Users/Gabriel/Desktop/ListaCircular/build/CMakeFiles/ListaCircular.dir
